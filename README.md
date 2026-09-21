@@ -15,5 +15,4 @@ Italian cuisine + Date Night occasion + Mid-range budget → **Highly Recommende
 - **Actuators:** recommendation output
 - **Sensors:** diner's entered details
 
-## Environment Properties
-Partially observable · Deterministic · Episodic · Semi-static · Discrete · Known · Single-agent
+
