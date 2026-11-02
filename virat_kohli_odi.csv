@@ -1,0 +1,303 @@
+date,opposition,ground,home_away,batting,batting_position,format_avg_before,last5_avg_runs,prev_innings_runs,bat_first_avg_before,bat_second_avg_before,runs,run_class
+2008-08-20,Sri Lanka,Rangiri Dambulla International Stadium,Away,Second,2,12.0,12.0,12,12.0,12.0,37,Medium
+2008-08-24,Sri Lanka,R Premadasa Stadium,Away,First,1,24.5,24.5,37,12.0,37.0,25,Medium
+2008-08-27,Sri Lanka,R Premadasa Stadium,Away,First,1,24.67,24.67,25,18.5,37.0,54,High
+2008-08-29,Sri Lanka,R Premadasa Stadium,Away,Second,1,32.0,32.0,54,30.33,37.0,31,Medium
+2009-09-14,Sri Lanka,R Premadasa Stadium,Away,First,7,31.8,31.8,31,30.33,34.0,2,Low
+2009-09-26,Pakistan,SuperSport Park,Away,Second,4,32.2,29.8,2,31.0,34.0,16,Medium
+2009-09-30,West Indies,New Wanderers Stadium,Away,Second,4,29.5,25.6,16,31.0,28.0,79,High
+2009-10-25,Australia,Reliance Stadium,Home,Second,4,42.67,36.4,79,31.0,54.33,30,Medium
+2009-11-02,Australia,Punjab Cricket Association Stadium,Home,Second,3,40.86,31.6,30,31.0,48.25,10,Low
+2009-12-15,Sri Lanka,Madhavrao Scindia Cricket Ground,Home,First,7,37.0,27.4,10,31.0,40.6,27,Medium
+2009-12-18,Sri Lanka,Vidarbha Cricket Association Stadium,Home,First,4,35.89,32.4,27,30.0,40.6,54,High
+2009-12-24,Sri Lanka,Eden Gardens,Home,Second,4,37.7,40.0,54,34.8,40.6,107,High
+2010-01-05,Sri Lanka,Shere Bangla National Stadium,Away,First,3,44.0,45.6,107,34.8,51.67,9,Low
+2010-01-07,Bangladesh,Shere Bangla National Stadium,Away,Second,3,41.08,41.4,9,30.5,51.67,91,High
+2010-01-10,Sri Lanka,Shere Bangla National Stadium,Away,Second,3,44.92,57.6,91,30.5,57.29,71,High
+2010-01-11,Bangladesh,Shere Bangla National Stadium,Away,Second,3,50.38,66.4,71,30.5,67.43,102,High
+2010-01-13,Sri Lanka,Shere Bangla National Stadium,Away,First,3,58.23,76.0,102,30.5,82.0,2,Low
+2010-02-21,South Africa,Sawai Mansingh Stadium,Home,First,5,54.21,55.0,2,26.43,82.0,31,Medium
+2010-02-27,South Africa,Sardar Patel Stadium,Home,Second,3,52.67,59.4,31,27.0,82.0,57,High
+2010-05-28,Zimbabwe,Queens Sports Club,Away,First,3,52.94,52.6,57,27.0,78.88,0,Low
+2010-05-30,Sri Lanka,Queens Sports Club,Away,Second,3,49.82,38.4,0,24.0,78.88,82,High
+2010-06-03,Zimbabwe,Harare Sports Club,Away,First,3,51.61,34.4,82,24.0,79.22,18,Medium
+2010-06-05,Sri Lanka,Harare Sports Club,Away,First,3,49.84,37.6,18,23.4,79.22,68,High
+2010-06-16,Bangladesh,Rangiri Dambulla International Stadium,Away,Second,3,50.75,45.0,68,27.45,79.22,11,Low
+2010-06-19,Pakistan,Rangiri Dambulla International Stadium,Away,Second,3,48.86,35.8,11,27.45,72.4,18,Medium
+2010-06-22,Sri Lanka,Rangiri Dambulla International Stadium,Away,First,3,47.45,39.4,18,27.45,67.45,10,Low
+2010-06-24,Sri Lanka,Rangiri Dambulla International Stadium,Away,First,3,45.83,25.0,10,26.0,67.45,28,Medium
+2010-08-16,Sri Lanka,Rangiri Dambulla International Stadium,Away,Second,3,45.08,27.0,28,26.15,67.45,0,Low
+2010-08-25,New Zealand,Rangiri Dambulla International Stadium,Away,First,3,43.28,13.4,0,26.15,61.83,8,Low
+2010-08-28,Sri Lanka,Rangiri Dambulla International Stadium,Away,Second,3,41.92,12.8,8,24.86,61.83,37,Medium
+2010-10-20,Australia,Dr Y S Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,Second,3,41.74,16.6,37,24.86,59.92,118,High
+2010-11-28,New Zealand,Nehru Stadium,Home,First,3,44.46,38.2,118,24.86,64.07,105,High
+2010-12-01,New Zealand,Sawai Mansingh Stadium,Home,Second,3,46.55,53.6,105,30.2,64.07,64,High
+2010-12-04,New Zealand,Reliance Stadium,Home,Second,3,47.13,66.4,64,30.2,64.07,63,High
+2010-12-07,New Zealand,M Chinnaswamy Stadium,Home,Second,3,49.23,77.4,63,30.2,68.27,0,Low
+2010-12-10,New Zealand,MA Chidambaram Stadium,Home,Second,3,47.65,70.0,0,30.2,64.0,2,Low
+2011-01-12,South Africa,Kingsmead,Away,Second,3,46.22,46.8,2,30.2,60.35,54,High
+2011-01-15,South Africa,New Wanderers Stadium,Away,First,3,46.45,36.6,54,30.2,60.0,22,Medium
+2011-01-18,South Africa,Newlands,Away,Second,3,45.74,28.2,22,29.69,60.0,28,Medium
+2011-01-21,South Africa,St George's Park,Away,Second,3,45.23,21.2,28,29.69,58.32,87,High
+2011-01-23,South Africa,SuperSport Park,Away,Second,3,47.71,38.6,87,29.69,62.89,2,Low
+2011-02-19,Bangladesh,Shere Bangla National Stadium,Away,First,4,46.44,38.6,2,29.69,59.85,100,High
+2011-02-27,England,M Chinnaswamy Stadium,Home,First,7,49.22,47.8,100,35.94,59.85,8,Low
+2011-03-06,Ireland,M Chinnaswamy Stadium,Home,Second,4,48.11,45.0,8,34.29,59.85,34,Medium
+2011-03-09,Netherlands,Feroz Shah Kotla,Home,Second,5,47.74,46.2,34,34.29,58.62,12,Low
+2011-03-12,South Africa,Vidarbha Cricket Association Stadium,Home,First,7,46.82,31.2,12,34.29,56.5,1,Low
+2011-03-20,West Indies,MA Chidambaram Stadium,Home,First,3,45.67,31.0,1,32.44,56.5,59,High
+2011-03-24,Australia,Sardar Patel Stadium,Home,Second,4,46.0,22.8,59,33.84,56.5,24,Medium
+2011-03-30,Pakistan,Punjab Cricket Association Stadium,Home,First,4,45.48,26.0,24,33.84,55.09,9,Low
+2011-04-02,Sri Lanka,Wankhede Stadium,Home,Second,4,44.63,21.0,9,32.6,55.09,35,Medium
+2011-06-06,West Indies,Queen's Park Oval,Away,Second,3,44.41,25.6,35,32.6,54.25,2,Low
+2011-06-08,West Indies,Queen's Park Oval,Away,Second,3,43.47,25.8,2,32.6,52.16,81,High
+2011-06-11,West Indies,Sir Vivian Richards Stadium,Away,Second,3,44.28,30.2,81,32.6,53.27,0,Low
+2011-06-13,West Indies,Sir Vivian Richards Stadium,Away,Second,3,43.34,25.4,0,32.6,51.3,22,Medium
+2011-06-16,West Indies,Sabina Park,Away,First,3,42.9,28.0,22,32.6,50.25,94,High
+2011-09-03,England,Riverside Ground,Away,First,4,43.94,39.8,94,35.52,50.25,55,High
+2011-09-06,England,The Rose Bowl,Away,First,4,44.16,50.4,55,36.41,50.25,9,Low
+2011-09-09,England,Kennington Oval,Away,First,4,43.47,36.0,9,35.22,50.25,7,Low
+2011-09-11,England,Lord's,Away,First,4,42.77,37.4,7,34.04,50.25,16,Medium
+2011-09-16,England,Sophia Gardens,Away,First,4,42.26,36.2,16,33.32,50.25,107,High
+2011-10-14,England,Rajiv Gandhi International Stadium,Home,First,4,43.46,38.8,107,36.15,50.25,37,Medium
+2011-10-17,England,Feroz Shah Kotla,Home,Second,4,43.35,35.2,37,36.19,50.25,112,High
+2011-10-20,England,Punjab Cricket Association Stadium,Home,Second,4,45.38,55.8,112,36.19,54.25,35,Medium
+2011-10-23,England,Wankhede Stadium,Home,Second,4,45.2,61.4,35,36.19,53.59,86,High
+2011-10-25,England,Eden Gardens,Home,First,3,46.73,75.4,86,36.19,56.55,0,Low
+2011-11-29,West Indies,Barabati Stadium,Home,Second,4,45.91,54.0,0,34.89,56.55,3,Low
+2011-12-02,West Indies,Dr Y S Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,Second,4,45.17,47.2,3,34.89,54.77,117,High
+2011-12-05,West Indies,Sardar Patel Stadium,Home,Second,4,46.39,48.2,117,34.89,56.77,20,Medium
+2011-12-08,West Indies,Holkar Cricket Stadium,Home,First,6,45.95,45.2,20,34.89,55.62,23,Medium
+2011-12-11,West Indies,MA Chidambaram Stadium,Home,First,5,46.33,32.6,23,35.71,55.62,80,High
+2012-02-05,Australia,Melbourne Cricket Ground,Away,Second,3,46.89,48.6,80,37.24,55.62,31,Medium
+2012-02-08,Sri Lanka,Western Australia Cricket Association Ground,Away,Second,3,46.63,54.2,31,37.24,54.88,77,High
+2012-02-12,Australia,Adelaide Oval,Away,Second,3,47.11,46.2,77,37.24,55.53,18,Medium
+2012-02-14,Sri Lanka,Adelaide Oval,Away,Second,3,46.66,45.8,18,37.24,54.46,15,Medium
+2012-02-19,Australia,Brisbane Cricket Ground,Away,Second,3,46.17,44.2,15,37.24,53.36,12,Low
+2012-02-21,Sri Lanka,Brisbane Cricket Ground,Away,Second,4,45.65,30.6,12,37.24,52.24,66,High
+2012-02-26,Australia,Sydney Cricket Ground,Away,Second,4,45.96,37.6,66,37.24,52.61,21,Medium
+2012-02-28,Sri Lanka,Bellerive Oval,Away,Second,4,45.59,26.4,21,37.24,51.79,133,High
+2012-03-13,Sri Lanka,Shere Bangla National Stadium,Away,First,3,47.54,49.4,133,37.24,55.21,108,High
+2012-03-16,Bangladesh,Shere Bangla National Stadium,Away,First,3,48.42,68.0,108,39.6,55.21,66,High
+2012-03-18,Pakistan,Shere Bangla National Stadium,Away,Second,3,48.67,78.8,66,40.45,55.21,183,High
+2012-07-21,Sri Lanka,Mahinda Rajapaksa International Cricket Stadium,Away,First,3,50.56,102.2,183,40.45,58.4,106,High
+2012-07-24,Sri Lanka,Mahinda Rajapaksa International Cricket Stadium,Away,First,3,51.33,119.2,106,42.5,58.4,1,Low
+2012-07-28,Sri Lanka,R Premadasa Stadium,Away,Second,3,50.64,92.8,1,41.24,58.4,38,Medium
+2012-07-31,Sri Lanka,R Premadasa Stadium,Away,Second,3,50.47,78.8,38,41.24,57.9,128,High
+2012-08-04,Sri Lanka,Pallekele International Cricket Stadium,Away,First,3,52.2,91.2,128,41.24,61.02,23,Medium
+2012-12-30,Pakistan,MA Chidambaram Stadium,Home,First,3,51.81,59.2,23,40.71,61.02,0,Low
+2013-01-03,Pakistan,Eden Gardens,Home,Second,3,51.13,38.0,0,39.54,61.02,6,Low
+2013-01-06,Pakistan,Feroz Shah Kotla,Home,First,3,50.55,39.0,6,39.54,59.71,7,Low
+2013-01-11,England,Saurashtra Cricket Association Stadium,Home,Second,3,49.99,32.8,7,38.64,59.71,15,Medium
+2013-01-15,England,Nehru Stadium,Home,First,3,49.54,10.2,15,38.64,58.67,37,Medium
+2013-01-19,England,JSCA International Stadium Complex,Home,Second,3,49.39,13.0,37,38.59,58.67,77,High
+2013-01-23,England,Punjab Cricket Association Stadium,Home,Second,3,50.35,28.4,77,38.59,60.47,26,Medium
+2013-01-27,England,Himachal Pradesh Cricket Association Stadium,Home,First,3,50.05,32.4,26,38.59,59.68,0,Low
+2013-06-06,South Africa,Sophia Gardens,Away,First,3,49.44,31.0,0,37.58,59.68,31,Medium
+2013-06-11,West Indies,Kennington Oval,Away,Second,3,49.22,34.2,31,37.41,59.68,22,Medium
+2013-06-15,Pakistan,Edgbaston,Away,Second,3,48.89,31.2,22,37.41,58.84,22,Medium
+2013-06-20,Sri Lanka,Sophia Gardens,Away,Second,3,49.15,20.2,22,37.41,59.33,58,High
+2013-06-23,England,Edgbaston,Away,First,3,49.85,26.6,58,37.41,60.62,43,High
+2013-06-30,West Indies,Sabina Park,Away,First,3,49.76,35.2,43,37.55,60.62,11,Low
+2013-07-02,Sri Lanka,Sabina Park,Away,Second,4,49.31,31.2,11,36.9,60.62,2,Low
+2013-07-05,West Indies,Queen's Park Oval,Away,First,3,48.77,27.2,2,36.9,59.35,102,High
+2013-07-09,Sri Lanka,Queen's Park Oval,Away,First,3,49.38,43.2,102,38.45,59.35,31,Medium
+2013-07-11,Sri Lanka,Queen's Park Oval,Away,Second,3,49.17,37.8,31,38.28,59.35,2,Low
+2013-07-24,Zimbabwe,Harare Sports Club,Away,Second,3,48.64,29.6,2,38.28,58.13,115,High
+2013-07-26,Zimbabwe,Harare Sports Club,Away,First,3,49.37,50.4,115,38.28,59.31,14,Low
+2013-07-28,Zimbabwe,Harare Sports Club,Away,Second,3,48.99,52.8,14,37.73,59.31,68,High
+2013-10-13,Australia,Maharashtra Cricket Association Stadium,Home,Second,3,49.73,46.0,68,37.73,60.73,61,High
+2013-10-16,Australia,Sawai Mansingh Stadium,Home,Second,3,49.85,52.0,61,37.73,60.73,100,High
+2013-10-19,Australia,Punjab Cricket Association Stadium,Home,First,3,50.92,71.6,100,37.73,62.78,68,High
+2013-10-30,Australia,Vidarbha Cricket Association Stadium,Home,Second,3,51.11,62.2,68,38.4,62.78,115,High
+2013-11-02,Australia,M Chinnaswamy Stadium,Home,First,3,52.33,82.4,115,38.4,65.12,0,Low
+2013-11-21,West Indies,Nehru Stadium,Home,Second,3,51.78,68.8,0,37.57,65.12,86,High
+2013-11-24,West Indies,Dr Y S Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,First,3,52.14,73.8,86,37.57,65.54,99,High
+2013-11-27,West Indies,Green Park,Home,Second,3,52.62,73.6,99,38.87,65.54,19,Medium
+2013-12-05,South Africa,New Wanderers Stadium,Away,Second,3,52.28,63.8,19,38.87,64.63,31,Medium
+2013-12-08,South Africa,Kingsmead,Away,Second,3,52.06,47.0,31,38.87,63.98,0,Low
+2014-01-19,New Zealand,McLean Park,Away,Second,3,51.54,47.0,0,38.87,62.77,123,High
+2014-01-22,New Zealand,Seddon Park,Away,Second,3,52.25,54.4,123,38.87,63.89,78,High
+2014-01-25,New Zealand,Eden Park,Away,Second,3,52.5,50.2,78,38.87,64.15,6,Low
+2014-01-28,New Zealand,Seddon Park,Away,First,2,52.05,47.6,6,38.87,63.11,2,Low
+2014-01-31,New Zealand,Westpac Stadium,Away,Second,3,51.57,41.8,2,38.1,63.11,82,High
+2014-02-26,Bangladesh,Khan Shaheb Osman Ali Stadium,Away,Second,3,51.86,58.2,82,38.1,63.44,136,High
+2014-02-28,Sri Lanka,Khan Shaheb Osman Ali Stadium,Away,First,3,52.65,60.8,136,38.1,64.69,48,High
+2014-03-02,Pakistan,Shere Bangla National Stadium,Away,First,3,52.61,54.8,48,38.31,64.69,5,Low
+2014-08-27,England,Sophia Gardens,Away,First,3,52.17,54.6,5,37.64,64.69,0,Low
+2014-08-30,England,Trent Bridge,Away,Second,3,51.69,54.2,0,36.9,64.69,40,High
+2014-09-02,England,Edgbaston,Away,Second,3,51.58,45.8,40,36.9,64.27,1,Low
+2014-09-05,England,Headingley,Away,Second,3,51.59,18.8,1,36.9,64.29,13,Low
+2014-10-08,West Indies,Nehru Stadium,Home,Second,3,51.24,11.8,13,36.9,63.43,2,Low
+2014-10-11,West Indies,Feroz Shah Kotla,Home,First,4,50.8,11.2,2,36.9,62.43,62,High
+2014-10-17,West Indies,Himachal Pradesh Cricket Association Stadium,Home,First,3,50.9,23.6,62,37.38,62.43,127,High
+2014-11-02,Sri Lanka,Barabati Stadium,Home,First,4,51.57,41.0,127,39.08,62.43,22,Medium
+2014-11-06,Sri Lanka,Sardar Patel Stadium,Home,Second,4,51.31,45.2,22,38.76,62.43,49,High
+2014-11-09,Sri Lanka,Rajiv Gandhi International Stadium,Home,Second,4,51.29,52.4,49,38.76,62.21,53,High
+2014-11-13,Sri Lanka,Eden Gardens,Home,First,4,51.31,62.6,53,38.76,62.06,66,High
+2014-11-16,Sri Lanka,JSCA International Stadium Complex,Home,Second,4,51.43,63.4,66,39.25,62.06,139,High
+2015-01-18,Australia,Melbourne Cricket Ground,Away,First,4,52.61,65.8,139,39.25,64.27,9,Low
+2015-01-20,England,Brisbane Cricket Ground,Away,First,4,52.24,63.2,9,38.71,64.27,4,Low
+2015-01-26,Australia,Sydney Cricket Ground,Away,First,4,51.84,54.2,4,38.11,64.27,3,Low
+2015-01-30,England,Western Australia Cricket Association Ground,Away,First,3,51.87,44.2,3,38.16,64.27,8,Low
+2015-02-15,Pakistan,Adelaide Oval,Away,First,3,51.5,32.6,8,37.64,64.27,107,High
+2015-02-22,South Africa,Melbourne Cricket Ground,Away,First,3,51.96,26.2,107,38.81,64.27,46,High
+2015-02-28,United Arab Emirates,Western Australia Cricket Association Ground,Away,Second,3,51.91,33.6,46,38.93,64.27,33,Medium
+2015-03-06,West Indies,Western Australia Cricket Association Ground,Away,Second,3,52.18,39.4,33,38.93,64.79,33,Medium
+2015-03-10,Ireland,Seddon Park,Away,Second,3,52.02,45.4,33,38.93,64.3,44,High
+2015-03-14,Zimbabwe,Eden Park,Away,Second,3,52.38,52.6,44,38.93,64.98,38,Medium
+2015-03-19,Bangladesh,Melbourne Cricket Ground,Away,First,3,52.26,38.8,38,38.93,64.57,3,Low
+2015-03-26,Australia,Sydney Cricket Ground,Away,Second,3,51.87,30.2,3,38.34,64.57,1,Low
+2015-06-18,Bangladesh,Shere Bangla National Stadium,Away,Second,3,51.47,23.8,1,38.34,63.61,1,Low
+2015-06-21,Bangladesh,Shere Bangla National Stadium,Away,First,3,51.08,17.4,1,38.34,62.67,23,Medium
+2015-06-24,Bangladesh,Shere Bangla National Stadium,Away,First,3,50.86,13.2,23,38.1,62.67,25,Medium
+2015-10-11,South Africa,Green Park,Home,Second,4,50.66,10.6,25,37.89,62.67,11,Low
+2015-10-14,South Africa,Holkar Cricket Stadium,Home,First,4,50.36,12.2,11,37.89,61.91,12,Low
+2015-10-18,South Africa,Saurashtra Cricket Association Stadium,Home,Second,3,50.07,14.4,12,37.48,61.91,77,High
+2015-10-22,South Africa,MA Chidambaram Stadium,Home,First,3,50.27,29.6,77,37.48,62.13,138,High
+2015-10-25,South Africa,Wankhede Stadium,Home,Second,3,50.93,52.6,138,39.03,62.13,7,Low
+2016-01-12,Australia,Western Australia Cricket Association Ground,Away,First,3,50.6,49.0,7,39.03,61.34,91,High
+2016-01-15,Australia,Brisbane Cricket Ground,Away,First,3,50.9,65.0,91,39.82,61.34,59,High
+2016-01-17,Australia,Melbourne Cricket Ground,Away,First,3,50.96,74.4,59,40.1,61.34,117,High
+2016-01-20,Australia,Manuka Oval,Away,Second,3,51.43,82.4,117,41.24,61.34,106,High
+2016-01-23,Australia,Sydney Cricket Ground,Away,Second,3,51.83,76.0,106,41.24,61.97,8,Low
+2016-10-16,New Zealand,Himachal Pradesh Cricket Association Stadium,Home,Second,3,51.51,76.2,8,41.24,61.22,85,High
+2016-10-20,New Zealand,Feroz Shah Kotla,Home,Second,3,52.12,75.0,85,41.24,62.4,9,Low
+2016-10-23,New Zealand,Punjab Cricket Association Stadium,Home,Second,3,51.82,65.0,9,41.24,61.67,154,High
+2016-10-26,New Zealand,JSCA International Stadium Complex,Home,Second,3,52.91,72.4,154,41.24,63.78,45,High
+2016-10-29,New Zealand,Dr Y S Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,First,3,52.85,60.2,45,41.24,63.53,65,High
+2017-01-15,England,Maharashtra Cricket Association Stadium,Home,Second,3,52.94,71.6,65,41.58,63.53,122,High
+2017-01-19,England,Barabati Stadium,Home,First,3,53.42,79.0,122,41.58,64.31,8,Low
+2017-01-22,England,Eden Gardens,Home,Second,3,53.1,78.8,8,41.1,64.31,55,High
+2017-06-04,Pakistan,Edgbaston,Away,First,3,53.12,59.0,55,41.1,64.18,81,High
+2017-06-08,Sri Lanka,Kennington Oval,Away,First,3,53.67,66.2,81,42.26,64.18,0,Low
+2017-06-11,South Africa,Kennington Oval,Away,Second,3,53.31,53.2,0,41.66,64.18,76,High
+2017-06-15,Bangladesh,Edgbaston,Away,Second,3,53.82,44.0,76,41.66,65.18,96,High
+2017-06-18,Pakistan,Kennington Oval,Away,Second,3,54.48,61.6,96,41.66,66.45,5,Low
+2017-06-23,West Indies,Queen's Park Oval,Away,First,3,54.14,51.6,5,41.66,65.65,32,Medium
+2017-06-25,West Indies,Queen's Park Oval,Away,First,3,54.36,41.8,32,42.11,65.65,87,High
+2017-06-30,West Indies,Sir Vivian Richards Stadium,Away,First,3,54.58,59.2,87,42.74,65.65,11,Low
+2017-07-02,West Indies,Sir Vivian Richards Stadium,Away,Second,3,54.29,46.2,11,42.3,65.65,3,Low
+2017-07-06,West Indies,Sabina Park,Away,Second,3,53.95,27.6,3,42.3,64.85,111,High
+2017-08-20,Sri Lanka,Rangiri Dambulla International Stadium,Away,Second,3,54.68,48.8,111,42.3,66.27,82,High
+2017-08-24,Sri Lanka,Pallekele International Cricket Stadium,Away,Second,5,55.23,58.8,82,42.3,67.32,4,Low
+2017-08-27,Sri Lanka,Pallekele International Cricket Stadium,Away,Second,3,54.89,42.2,4,42.3,66.52,3,Low
+2017-08-31,Sri Lanka,R Premadasa Stadium,Away,First,3,54.55,40.6,3,42.3,65.72,131,High
+2017-09-03,Sri Lanka,R Premadasa Stadium,Away,Second,3,55.05,66.2,131,43.5,65.72,110,High
+2017-09-17,Australia,MA Chidambaram Stadium,Home,First,3,55.76,66.0,110,43.5,67.1,0,Low
+2017-09-21,Australia,Eden Gardens,Home,First,3,55.4,49.6,0,42.92,67.1,92,High
+2017-09-24,Australia,Holkar Cricket Stadium,Home,Second,3,55.63,67.2,92,43.57,67.1,28,Medium
+2017-09-28,Australia,M Chinnaswamy Stadium,Home,Second,3,55.46,72.2,28,43.57,66.62,21,Medium
+2017-10-01,Australia,Vidarbha Cricket Association Stadium,Home,Second,3,55.24,50.2,21,43.57,66.06,39,Medium
+2017-10-22,New Zealand,Wankhede Stadium,Home,First,3,55.14,36.0,39,43.57,65.73,121,High
+2017-10-25,New Zealand,Maharashtra Cricket Association Stadium,Home,Second,3,55.55,60.2,121,44.57,65.73,29,Medium
+2017-10-29,New Zealand,Green Park,Home,First,3,55.39,47.6,29,44.57,65.3,113,High
+2018-02-01,South Africa,Kingsmead,Away,Second,3,55.74,64.6,113,45.45,65.3,112,High
+2018-02-04,South Africa,SuperSport Park,Away,Second,3,56.09,82.8,112,45.45,65.85,46,High
+2018-02-07,South Africa,Newlands,Away,First,3,56.37,84.2,46,45.45,66.39,160,High
+2018-02-10,South Africa,The Wanderers Stadium,Away,First,3,57.35,92.0,160,47.5,66.39,75,High
+2018-02-13,South Africa,St George's Park,Away,First,3,57.46,101.2,75,47.85,66.39,36,Medium
+2018-02-16,South Africa,SuperSport Park,Away,Second,3,57.33,85.8,36,47.7,66.39,129,High
+2018-07-12,England,Trent Bridge,Away,Second,3,58.11,89.2,129,47.7,67.91,75,High
+2018-07-14,England,Lord's,Away,Second,3,58.21,95.0,75,47.7,67.99,45,High
+2018-07-17,England,Headingley,Away,First,3,58.13,72.0,45,47.7,67.72,71,High
+2018-10-21,West Indies,Barsapara Cricket Stadium,Home,Second,3,58.21,71.2,71,47.99,67.72,140,High
+2018-10-24,West Indies,Dr Y S Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,First,3,58.69,92.0,140,47.99,68.55,157,High
+2018-10-27,West Indies,Maharashtra Cricket Association Stadium,Home,Second,3,59.62,97.6,157,49.93,68.55,107,High
+2018-10-29,West Indies,Brabourne Stadium,Home,First,3,59.9,104.0,107,49.93,68.98,16,Medium
+2018-11-01,West Indies,Greenfield International Stadium,Home,Second,3,59.64,98.2,16,49.51,68.98,33,Medium
+2019-01-12,Australia,Sydney Cricket Ground,Away,Second,3,59.84,90.6,33,49.51,69.35,3,Low
+2019-01-15,Australia,Adelaide Oval,Away,Second,3,59.51,63.2,3,49.51,68.61,104,High
+2019-01-18,Australia,Melbourne Cricket Ground,Away,Second,3,59.76,52.6,104,49.51,69.0,46,High
+2019-01-23,New Zealand,McLean Park,Away,Second,3,59.68,40.4,46,49.51,68.75,45,High
+2019-01-26,New Zealand,Bay Oval,Away,First,3,59.6,46.2,45,49.51,68.49,43,High
+2019-01-28,New Zealand,Bay Oval,Away,Second,3,59.51,48.2,43,49.43,68.49,60,High
+2019-03-02,Australia,Rajiv Gandhi International Stadium,Home,Second,3,59.51,59.6,60,49.43,68.4,44,High
+2019-03-05,Australia,Vidarbha Cricket Association Stadium,Home,First,3,59.42,47.6,44,49.43,68.15,116,High
+2019-03-08,Australia,JSCA International Stadium Complex,Home,Second,3,59.74,61.6,116,50.23,68.15,123,High
+2019-03-10,Australia,Punjab Cricket Association IS Bindra Stadium,Home,First,4,60.09,77.2,123,50.23,68.72,7,Low
+2019-03-13,Australia,Arun Jaitley Stadium,Home,Second,3,59.8,70.0,7,49.72,68.72,20,Medium
+2019-06-05,South Africa,The Rose Bowl,Away,Second,3,59.58,62.0,20,49.72,68.22,18,Medium
+2019-06-09,Australia,Kennington Oval,Away,First,3,59.35,56.8,18,49.72,67.7,82,High
+2019-06-16,Pakistan,Old Trafford,Away,First,3,59.47,50.0,82,50.09,67.7,77,High
+2019-06-27,West Indies,Old Trafford,Away,First,3,59.57,40.8,77,50.4,67.7,72,High
+2019-06-30,England,Edgbaston,Away,Second,3,59.63,53.8,72,50.65,67.7,66,High
+2019-07-02,Bangladesh,Edgbaston,Away,First,3,59.67,63.0,66,50.65,67.69,26,Medium
+2019-07-06,Sri Lanka,Headingley,Away,Second,3,59.49,64.6,26,50.37,67.69,34,Medium
+2019-07-09,New Zealand,Old Trafford,Away,Second,3,59.67,55.0,34,50.37,68.03,1,Low
+2019-08-11,West Indies,Queen's Park Oval,Away,First,3,59.36,39.8,1,50.37,67.36,120,High
+2019-08-14,West Indies,Queen's Park Oval,Away,Second,3,59.68,49.4,120,51.14,67.36,114,High
+2019-12-15,West Indies,MA Chidambaram Stadium,Home,First,3,60.28,59.0,114,51.14,68.5,4,Low
+2019-12-18,West Indies,Dr Y S Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,First,3,59.98,54.6,4,50.63,68.5,0,Low
+2019-12-22,West Indies,Barabati Stadium,Home,Second,3,59.67,47.8,0,50.08,68.5,85,High
+2020-01-14,Australia,Wankhede Stadium,Home,First,4,59.8,64.6,85,50.08,68.66,16,Medium
+2020-01-17,Australia,Saurashtra Cricket Association Stadium,Home,First,3,59.58,43.8,16,49.71,68.66,78,High
+2020-01-19,Australia,M Chinnaswamy Stadium,Home,Second,3,59.67,36.6,78,50.01,68.66,89,High
+2020-02-05,New Zealand,Seddon Park,Away,First,3,59.82,53.6,89,50.01,68.86,51,High
+2020-02-08,New Zealand,Eden Park,Away,Second,3,59.78,63.8,51,50.02,68.86,15,Medium
+2020-02-11,New Zealand,Bay Oval,Away,First,3,59.55,49.8,15,50.02,68.34,9,Low
+2020-11-27,Australia,Sydney Cricket Ground,Away,Second,3,59.3,48.4,9,49.59,68.34,21,Medium
+2020-11-29,Australia,Sydney Cricket Ground,Away,Second,3,59.1,37.0,21,49.59,67.88,89,High
+2020-12-02,Australia,Manuka Oval,Away,First,3,59.25,37.0,89,49.59,68.09,63,High
+2021-03-23,England,Maharashtra Cricket Association Stadium,Home,First,3,59.27,39.4,63,49.73,68.09,56,High
+2021-03-26,England,Maharashtra Cricket Association Stadium,Home,First,3,59.26,47.6,56,49.8,68.09,66,High
+2021-03-28,England,Maharashtra Cricket Association Stadium,Home,First,3,59.29,59.0,66,49.96,68.09,7,Low
+2022-01-19,South Africa,Boland Park,Away,Second,3,59.03,56.2,7,49.53,68.09,51,High
+2022-01-21,South Africa,Boland Park,Away,First,3,59.0,48.6,51,49.53,67.92,0,Low
+2022-01-23,South Africa,Newlands,Away,Second,3,58.71,36.0,0,49.04,67.92,65,High
+2022-02-06,West Indies,Narendra Modi Stadium,Home,Second,3,58.74,37.8,65,49.04,67.9,8,Low
+2022-02-09,West Indies,Narendra Modi Stadium,Home,First,3,58.5,26.2,8,49.04,67.34,18,Medium
+2022-02-11,West Indies,Narendra Modi Stadium,Home,First,3,58.3,28.4,18,48.74,67.34,0,Low
+2022-07-14,England,Lord's,Away,Second,3,58.03,18.2,0,48.26,67.34,16,Medium
+2022-07-17,England,Old Trafford,Away,Second,3,57.83,21.4,16,48.26,66.87,17,Medium
+2022-12-04,Bangladesh,Shere Bangla National Stadium,Away,First,3,57.64,11.8,17,48.26,66.42,9,Low
+2022-12-07,Bangladesh,Shere Bangla National Stadium,Away,Second,1,57.41,12.0,9,47.88,66.42,5,Low
+2022-12-10,Bangladesh,Zahur Ahmed Chowdhury Stadium,Away,First,3,57.17,9.4,5,47.88,65.86,113,High
+2023-01-10,Sri Lanka,Barsapara Cricket Stadium,Home,First,3,57.43,32.0,113,48.5,65.86,113,High
+2023-01-12,Sri Lanka,Eden Gardens,Home,Second,3,57.68,51.4,113,49.11,65.86,4,Low
+2023-01-15,Sri Lanka,Greenfield International Stadium,Home,First,3,57.44,48.8,4,49.11,65.31,166,High
+2023-01-18,New Zealand,Rajiv Gandhi International Stadium,Home,First,3,58.2,80.2,166,50.68,65.31,8,Low
+2023-01-21,New Zealand,Shaheed Veer Narayan Singh International Stadium,Home,Second,3,57.97,80.8,8,50.28,65.31,11,Low
+2023-01-24,New Zealand,Holkar Cricket Stadium,Home,First,3,57.75,60.4,11,50.28,64.83,36,Medium
+2023-03-17,Australia,Wankhede Stadium,Home,Second,3,57.66,45.0,36,50.15,64.83,4,Low
+2023-03-19,Australia,Dr Y S Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,First,3,57.41,45.0,4,50.15,64.3,31,Medium
+2023-03-22,Australia,MA Chidambaram Stadium,Home,Second,3,57.3,18.0,31,49.97,64.3,54,High
+2023-09-02,Pakistan,Pallekele International Cricket Stadium,Away,First,3,57.28,27.2,54,49.97,64.21,4,Low
+2023-09-10,Pakistan,R Premadasa Stadium,Away,First,3,57.04,25.8,4,49.55,64.21,122,High
+2023-09-12,Sri Lanka,R Premadasa Stadium,Away,First,3,57.59,43.0,122,50.66,64.21,3,Low
+2023-09-27,Australia,Saurashtra Cricket Association Stadium,Home,Second,3,57.35,42.8,3,50.23,64.21,56,High
+2023-10-08,Australia,MA Chidambaram Stadium,Home,Second,3,57.34,47.8,56,50.23,64.14,85,High
+2023-10-14,Pakistan,Narendra Modi Stadium,Home,Second,3,57.46,54.0,85,50.23,64.32,16,Medium
+2023-10-19,Bangladesh,Maharashtra Cricket Association Stadium,Home,Second,3,57.28,56.4,16,50.23,63.91,103,High
+2023-10-22,New Zealand,Himachal Pradesh Cricket Association Stadium,Home,Second,3,57.73,52.6,103,50.23,64.78,95,High
+2023-10-29,England,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Home,First,3,57.89,71.0,95,50.23,65.03,0,Low
+2023-11-02,Sri Lanka,Wankhede Stadium,Home,First,3,57.64,59.8,0,49.79,65.03,88,High
+2023-11-05,South Africa,Eden Gardens,Home,First,3,57.77,60.4,88,50.12,65.03,101,High
+2023-11-12,Netherlands,M Chinnaswamy Stadium,Home,First,3,58.21,77.4,101,51.02,65.03,51,High
+2023-11-15,New Zealand,Wankhede Stadium,Home,First,3,58.18,67.0,51,51.02,65.03,117,High
+2023-11-19,Australia,Narendra Modi Stadium,Home,First,3,58.43,71.4,117,51.59,65.03,54,High
+2024-08-02,Sri Lanka,R Premadasa Stadium,Away,Second,3,58.41,82.2,54,51.61,65.03,24,Medium
+2024-08-04,Sri Lanka,R Premadasa Stadium,Away,Second,3,58.26,69.4,24,51.61,64.69,14,Low
+2024-08-07,Sri Lanka,R Premadasa Stadium,Away,Second,3,58.08,52.0,14,51.61,64.27,20,Medium
+2025-02-09,England,Barabati Stadium,Home,Second,3,57.92,45.8,20,51.61,63.91,5,Low
+2025-02-12,England,Narendra Modi Stadium,Home,First,3,57.69,23.4,5,51.61,63.43,52,High
+2025-02-20,Bangladesh,Dubai International Cricket Stadium,Away,Second,3,57.67,23.0,52,51.62,63.43,22,Medium
+2025-02-23,Pakistan,Dubai International Cricket Stadium,Away,Second,3,57.52,22.6,22,51.62,63.1,100,High
+2025-03-02,New Zealand,Dubai International Cricket Stadium,Away,First,3,57.94,39.8,100,51.62,63.9,11,Low
+2025-03-04,Australia,Dubai International Cricket Stadium,Away,Second,3,57.74,38.0,11,51.27,63.9,84,High
+2025-03-09,New Zealand,Dubai International Cricket Stadium,Away,Second,3,57.85,53.8,84,51.27,64.06,1,Low
+2025-10-19,Australia,Perth Stadium,Away,First,3,57.62,43.6,1,51.27,63.56,0,Low
+2025-10-23,Australia,Adelaide Oval,Away,First,3,57.38,39.2,0,50.84,63.56,0,Low
+2025-10-25,Australia,Sydney Cricket Ground,Away,Second,3,57.15,19.2,0,50.42,63.56,74,High
+2025-11-30,South Africa,JSCA International Stadium Complex,Home,First,3,57.45,31.8,74,50.42,64.15,135,High
+2025-12-03,South Africa,Shaheed Veer Narayan Singh International Stadium,Home,First,3,57.77,42.0,135,51.12,64.15,102,High
+2025-12-06,South Africa,Dr Y S Rajasekhara Reddy ACA-VDCA Cricket Stadium,Home,Second,3,57.94,62.2,102,51.53,64.15,65,High
+2026-01-11,New Zealand,Kotambi Stadium,Home,Second,3,58.21,75.2,65,51.53,64.67,93,High
+2026-01-14,New Zealand,Niranjan Shah Stadium,Home,First,3,58.35,93.8,93,51.53,64.89,23,Medium
+2026-01-18,New Zealand,Holkar Cricket Stadium,Home,Second,3,58.2,83.6,23,51.3,64.89,124,High
+2026-07-14,England,Edgbaston,Away,Second,3,58.47,81.4,124,51.3,65.35,5,Low
+2026-07-16,England,Sophia Gardens,Away,First,3,58.25,62.0,5,51.3,64.88,65,High
+2026-07-19,England,Lord's,Away,Second,3,58.28,62.0,65,51.41,64.88,74,High
+2026-09-27,West Indies,Greenfield International Stadium,Home,Second,3,58.34,58.2,74,51.41,64.95,139,High
+2026-09-30,West Indies,Barsapara Cricket Stadium,Home,Second,3,58.89,81.4,139,51.41,66.02,29,Medium
+2026-10-03,West Indies,Maharaja Yadavindra Singh International Cricket Stadium,Home,First,3,58.77,62.4,29,51.41,65.74,0,Low
